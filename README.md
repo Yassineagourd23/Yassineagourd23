@@ -23,7 +23,7 @@ A versatile **Software Engineer, Data Enthusiast & Digital Governance Specialist
 ### 📫 Let's Connect
 
 |                    |                                                                                                   |
-|--------------------|---------------------------------------------------------------------------------------------------|
+|------------------|---------------------------------------------------------------------------------------------------|
 | **LinkedIn**       | [linkedin.com/in/yassine-agourd]([https://www.linkedin.com/in/yassine-agourd/](https://www.linkedin.com/in/yassine-agourd-4a9658429/))                     |
 | **Email**          | [yassine.agourd@um5r.ac.ma](mailto:yassine.agourd@um5r.ac.ma)                                   |
-| **PORTFOLIO**          | (https://agourd.vercel.app/)](https://agourd.vercel.app/)]                                   |
+| **PORTFOLIO**          | [https://agourd.vercel.app/](https://agourd.vercel.app/)  --                                |
