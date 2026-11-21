@@ -5,23 +5,54 @@
 Final-year Master's student in **IT, Governance & Digital Transformation (iGov)** at Université Mohammed V, Rabat.
 I turn raw data into decisions: collecting it through APIs, cleaning and modeling it in **Python and SQL**, predicting with **Machine Learning**, and presenting it in **Power BI** dashboards. I also build the applications around the data (Angular, Node.js) and bring a governance mindset (ITIL, COBIT, ISO 27001, GDPR) to data quality and compliance.
 
-📍 Rabat, Morocco  ·  🎯 **Looking for a 4 to 6-month PFE internship in Data / BI**  ·  🗣️ Arabic · French · English (C2)
+📍 Rabat, Morocco  ·  🎯 **Looking for a 4 to 6-month PFE internship in Data / BI**  ·  🗣️ Arabic · French · English (C1, EF SET)
 
 ---
 
-## 📊 Data & BI (my main focus)
+## 📊 Data Skills (my main focus)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FDD835?logoColor=black)
 
-- **Data Science:** KDD process, EDA, feature engineering, Decision Trees, Random Forest, KNN, SVM, K-Means, regression and econometrics
-- **BI & visualization:** Power BI (DAX), Matplotlib, Seaborn, Chart.js, PDF/Excel reporting
-- **Data engineering:** advanced SQL, MySQL, MongoDB, API extraction, ETL pipelines, OLTP/OLAP modeling
+My workflow follows the **KDD process**, from raw data to a decision:
+
+```
+Collect  ->  Clean & prepare  ->  Explore & analyze  ->  Model  ->  Visualize & report
+(APIs, SQL)  (Pandas, Power Query)  (EDA, statistics)     (ML)      (Power BI, Chart.js)
+```
+
+### 📈 Data Analysis & BI
+- **Exploratory data analysis (EDA):** distributions, comparisons and trends to understand a dataset before modeling (for example ridership on dry vs rainy days, rush-hour peaks)
+- **KPIs and DAX measures (Power BI):** ridership dry vs rainy, rush-hour variation, overload rate, annual cumulative
+- **Decision dashboards:** 4-page Power BI report (overview, weather impact, peak hours, station detail)
+- **Visualization:** Power BI, Matplotlib, Seaborn, Chart.js (interactive charts inside web apps)
+- **Reporting:** automated PDF and Excel exports
+- **Qualitative analysis:** coding and theme analysis with ATLAS.ti (governance research)
+
+### 🧹 Data Cleaning & Preparation
+- **With Python (Pandas):** outlier handling, categorical encoding (One-Hot Encoding), feature engineering, and joining sources of different origins (ridership logs + historical weather)
+- **With Power Query (Power BI):** cleaning and transforming data before it reaches the model: data types, filtering, merging queries <!-- TODO: add the exact Power Query steps you used (remove duplicates, replace errors, unpivot, merge...) -->
+- **Quality mindset:** my governance background (ISO 27001, GDPR) pushes me to document cleaning rules so results are reproducible
+
+### 🤖 Data Science & Machine Learning
+- **Process:** KDD end to end (selection, preprocessing, transformation, data mining, evaluation and interpretation)
+- **Supervised learning:** Decision Trees, Random Forest, KNN, SVM; regression and classification
+- **Unsupervised learning:** K-Means clustering <!-- TODO: add Hierarchical clustering if "HRC" meant that -->
+- **Model validation:** train/test evaluation, comparison of several models, ranking of the most influential variables
+- **Econometrics:** linear regression and 10-year projections (Python and R)
+- **Tools:** Python, Scikit-learn, R / RStudio, KNIME
+
+### 🛠️ Data Engineering
+- **Data collection:** REST APIs (requests, Open-Meteo), web scraping (BeautifulSoup)
+- **Databases:** advanced SQL, MySQL, MongoDB, CouchDB (document database queried through its REST API)
+- **Data modeling:** relational modeling (3NF), OLTP / OLAP
+- **Pipelines:** ETL pipelines in Python, and CI/CD with GitHub Actions to automate builds and checks
 
 ## 💻 Development & DevOps
 
@@ -59,6 +90,7 @@ IT Governance · ITIL v4 · COBIT 2019 · ISO/IEC 27001 · GDPR · Digital Trans
 
 - **Data:** Google Data Analytics (Foundations, Ask Questions, Prepare Data, Process Data) · Microsoft Power BI (Explore the analytics process, Get started building with Power BI) · Kaggle (Pandas, Intro to Machine Learning) · DataCamp Data Analysis in SQL, Advanced · HackerRank SQL
 - **Dev & DevOps:** HackerRank Angular and Node.js · MongoDB (Node.js Developer Path, CRUD, Indexing) · IBM Docker Essentials · AWS Cloud 101
+- **Governance & Security:** Mastering ISO 27001 Controls: Implementation and Auditing · Information Security Risk Management for ISO 27001/ISO 27002 (Packt, Coursera)
 - **Agile & AI:** Scrum Fundamentals · Scrum for Ops and DevOps · SAP Business AI Platform Architecture
 
 ---
