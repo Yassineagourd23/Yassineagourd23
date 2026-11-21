@@ -43,7 +43,7 @@ Collect  ->  Clean & prepare  ->  Explore & analyze  ->  Model  ->  Visualize & 
 ### 🤖 Data Science & Machine Learning
 - **Process:** KDD end to end (selection, preprocessing, transformation, data mining, evaluation and interpretation)
 - **Supervised learning:** Decision Trees, Random Forest, KNN, SVM; regression and classification
-- **Unsupervised learning:** K-Means clustering <!-- TODO: add Hierarchical clustering if "HRC" meant that -->
+- **Unsupervised learning:** K-Means clustering , HAC <!-- TODO: add Hierarchical clustering if "HRC" meant that -->
 - **Model validation:** train/test evaluation, comparison of several models, ranking of the most influential variables
 - **Econometrics:** linear regression and 10-year projections (Python and R)
 - **Tools:** Python, Scikit-learn, R / RStudio, KNIME
